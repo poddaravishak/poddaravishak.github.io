@@ -11,14 +11,14 @@
   -->
     <link
       rel="shortcut icon"
-      href="assets/images/logo.ico"
-      type="image/x-icon"
+      href="/assets/images/logo.ico"
+      type="/image/x-icon"
     />
 
     <!--
     - custom css link
   -->
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
 
     <!--
     - google font link
@@ -789,7 +789,7 @@
           <section class="contact-form">
             <h3 class="h3 form-title">Contact Form</h3>
 
-            <form action="contact.php" method="POST" class="form" data-form>
+            <form action="/contact.php" method="POST" class="form" data-form>
               <!-- Your form fields go here -->
               <div class="input-wrapper">
                 <input
